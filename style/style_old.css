@@ -1,0 +1,126 @@
+body{
+    /* background-image: url(testebackground.jpg); */
+}
+
+.top_custom{
+    background-image: url(background_top_image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 10%;
+    padding-top: 5%;
+  
+   
+}
+
+#premiere_custom
+{
+
+    background-image: url(background_premiere.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    padding-bottom: 10%;
+    padding-top: 5%;
+
+}
+#after_custom
+{
+
+    background-image: url(background_after.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    padding-bottom: 10%;
+    padding-top: 5%;
+
+}
+.second_section{
+
+}
+
+.mt-itens{
+    /* margin-top: 10%; */
+}
+.btn:hover{
+    background-color: #292c2f;
+}
+.card{
+    padding: 55px;
+}
+.card .card-text{
+    font-size: 14pt;
+}
+
+#navbar a{
+    color: white;
+}
+#navbar a:hover{
+    color: #aba9b1;
+}
+
+#bottom_apresentacao h3{
+    font-size: 25pt;
+}
+.testecolor{
+    /* background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, hwb(138 19% 47%) 50%, rgba(0,0,0,1) 100%);*/ 
+
+    background-color: #30884a;
+}
+
+.testecolor2{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(33,37,41,1) 50%, rgba(0,0,0,1) 100%);
+}
+
+
+.linha_01{
+
+    /* background: rgb(2,38,13);
+    background: linear-gradient(90deg, rgba(2,38,13,1) 0%, rgba(48,136,74,1) 50%, rgba(2,38,13,1) 100%); */
+    background-color: #000000;
+    /* background-image: url(testebackground2.jpg);
+    background-repeat:no-repeat;
+    background-position-x: center; */
+}
+.linha_02{
+    background-color: #292c2f;
+}
+
+
+.green_neon{
+    background-color: #06ff44;
+}
+.pink_neon{
+    background-color: #ff05c1;
+}
+.rainbow_01_neon{
+    background: rgb(180,58,180);
+    background: linear-gradient(90deg, rgba(180,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,230,69,1) 100%);
+}
+.texture_01{
+    /* background-image: url(muro.jpg);
+    opacity: 80%; */
+    
+}
+.texture_02{
+    /* background-image: url(texture_02.png); */
+}
+
+.action_01{
+/* color:#fafafa;
+  text-decoration:none;
+  background-color:#8b0000;
+  padding:15px;
+  border-radius:5px;
+  font-size:1.3em;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out; */
+}
+
+.action_01:hover{
+    box-shadow: inset 0 -5px 0 0 rgb(255, 0, 106);
+    transition: all 0.3s ease-in-out;
+    /* -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out; */
+}
+
